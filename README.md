@@ -1,0 +1,2 @@
+# diary
+Keep my diary
