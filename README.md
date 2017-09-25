@@ -19,6 +19,15 @@
 [九月21日](docs/sep21.md)
 
 [九月22日](docs/sep22.md)
+#### 第三周
+[九月25日](docs/sep25.md)
 
+[九月26日](docs/sep26.md)
+
+[九月27日](docs/sep27.md)
+
+[九月28日](docs/sep28.md)
+
+[九月29日](docs/sep29.md)
 ---
 [about Github Pages](aboutGithubPages.md)
